@@ -1,4 +1,4 @@
-[!Header](https://imgur.com/a/KDbD8U7 "Header")](https://halliburton.dev)
+[!Header](https://i.imgur.com/9u5fJst.png "Header")](https://halliburton.dev)
 
 # Hi there! 👋
 
