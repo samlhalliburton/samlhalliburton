@@ -1,4 +1,3 @@
-![Header](https://i.imgur.com/9u5fJst.png "Header")
 # Hi there! 👋
 
 My name is Samantha Halliburton and I'm a software engineer. I'm originally from Tucson, Arizona but I'm located in Florida. I'm currently looking for work. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
