@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Samantha Halliburton and I'm a software engineer. I'm originally from Tucson, Arizona but I'm located in Florida. I'm currently looking for work. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Samantha Halliburton and I'm a software engineer. I'm originally from Tucson, Arizona but I am currently located in Florida. I'm currently looking for work. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
